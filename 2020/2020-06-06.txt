@@ -1,0 +1,10 @@
+﻿#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		From Jamaica To Brasil (Original Mix)	Silvano Del Gado		Tech House	122.00	     	05:58	2A	2020-04-29
+2		Drummer Queen (Original Mix)	David Keno		Tech House	124.00	     	04:39	2A	2019-05-28
+3		You Are The Light (Original Mix)	Hot Since 82 Ft. Jem Cooke		Tech House	124.00	     	07:23	3A	2019-06-23
+4		Spit Battle (Original Mix)	Mauro Venti & Johnny JC		Tech House	123.00	     	07:17	4A	2019-07-26
+5		You Can Do It Baby (Original Mix)	Mark Knight & Danny Howard		Tech House	123.00	     	06:03	5A	2019-04-27
+6		Shake Your Booty (Original Mix)	Gianni Bini, The Rituals		Tech House	123.00	     	07:02	6A	2019-04-27
+7		Grind It Out (Original Mix)	Rhythm Distrkt		Tech House	124.00	     	06:46	7A	2020-02-05
+8		Private Show (Extended Mix)	OFFAIAH	Private Show	Tech House	122.00	     	07:14	8A	2020-04-29
+9		Loving & Surrounding (Extended Mix)	Alex Twitchy		Tech House	123.00	     	06:49	9A	2020-02-05
