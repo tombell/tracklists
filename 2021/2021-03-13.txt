@@ -1,0 +1,15 @@
+﻿#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Oh Boy (Extended Mix)	Diver City	Oh Boy	Funky / Groove / Jackin' House	124.00	     	04:42	11A	2021-03-13
+2		Ain't Nothin' Going On But The Rent (Extended Mix)	Phebe Edwards, Kevin McKay	Ain't Nothin' Going On But The Rent	House	124.00	     	05:25	10A	2021-02-12
+3		Hot Stepper (2021 Remix)	Lissat, Block & Crown	Hot Stepper (2021 Remix)	Funky / Groove / Jackin' House	126.00	     	05:10	10A	2021-02-16
+4		Can't Hold Us (Crazibiza vs. Wawa Remix) (Extended)	Macklemore & Ryan Lewis 		House	128.00	     	06:15	9A	2019-04-27
+5		Just A Little (Sunday Service Mix) (Clean) (Extended)	Krystal Klear		House	126.00	     	06:23	8A	2019-04-27
+6		Hold Me Up feat. Jocelyn Brown (JJ's Extended Vocal Mix)	Jocelyn Brown, Glory, Junior Jack	Hold Me Up - Riva Starr Tangerine Funk Extended Vocal Mix	House	127.98	     	07:46	7A	2021-03-13
+7		Work (Original Mix)	Dilby, Nhan Solo	Work	House	124.00	     	05:57	6A	2021-03-13
+8		Rock and Roll Man (Original Mix)	Markino, DJ Herbie, Gary Caos	Rock and Roll Man	House	124.00	     	05:06	5A	2021-02-16
+9		Somewhere Special feat. Cat Connors (Club Mix)	OFFAIAH, Cat Connors		House	125.00	     	06:41	4A	2019-05-25
+10		Do You Want It Right Now (BluePrint Extended Mix)	Siedah Garrett	Do You Want It Right Now (BluePrint Extended Mix)	Melodic House & Techno	125.00	     	06:43	3A	2021-02-12
+11		Everybody Dance (Dani Maker Remix)	Freddy Groover		House	128.00	     	05:48	2A	2019-04-27
+12		That Sound (Club 69 Phunked Up Mix)	Michael Moog		House	128.28	     	09:11	1A	2019-04-27
+13		Don't Mess With My Man (Tony Romera Remix) (Clean) (Extended)	Lucy Pearl		House	125.00	     	03:35	12A	2019-04-27
+14		Reachin For The Stars (Original Mix)	Block & Crown, Chris Marina		House	126.00	     	04:41	11A	2019-04-27
