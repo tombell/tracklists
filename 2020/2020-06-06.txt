@@ -1,4 +1,4 @@
-﻿#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
 1		From Jamaica To Brasil (Original Mix)	Silvano Del Gado		Tech House	122.00	     	05:58	2A	2020-04-29
 2		Drummer Queen (Original Mix)	David Keno		Tech House	124.00	     	04:39	2A	2019-05-28
 3		You Are The Light (Original Mix)	Hot Since 82 Ft. Jem Cooke		Tech House	124.00	     	07:23	3A	2019-06-23

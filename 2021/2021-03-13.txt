@@ -1,4 +1,4 @@
-﻿#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
 1		Oh Boy (Extended Mix)	Diver City	Oh Boy	Funky / Groove / Jackin' House	124.00	     	04:42	11A	2021-03-13
 2		Ain't Nothin' Going On But The Rent (Extended Mix)	Phebe Edwards, Kevin McKay	Ain't Nothin' Going On But The Rent	House	124.00	     	05:25	10A	2021-02-12
 3		Hot Stepper (2021 Remix)	Lissat, Block & Crown	Hot Stepper (2021 Remix)	Funky / Groove / Jackin' House	126.00	     	05:10	10A	2021-02-16
